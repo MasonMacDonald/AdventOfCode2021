@@ -4,8 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace aoc
+namespace Aoc.Solutions
 {
+
+    /// <summary>
+    /// Contains two methods related to Advent of Code 2021 Day 1
+    /// </summary>
     public class Day01
     {
         private List<string> initialRead;
